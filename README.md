@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hello 👋 I'm Aljo San Pedro, a 3rd BS Psychology student from UP Diliman who learns coding in their free time. I'm hoping to use these skills to make fun and useful projects, and maybe land a tech job and/or pursue further education in CS.
 
-<!--
-**aljosanpedro/aljosanpedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Following online tutorials 
+- 🌱 I’m currently learning: Python!
+- ⏲️ In the future, I want to learn: Godot, Basic Web Dev, C++, Java, Flutter, Python Data Analysis
+- 👯 I’m looking to collaborate on: Nothing at the moment
+- 🤔 I’m looking for help with: Nothing at the moment
+- 💬 Ask me about: Rock/Band music, Retro video game history, Godot vs. Unity debate
+- 📫 How to reach me: Discord (aljowo#0820), FB/Messenger (Aljo San Pedro)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm in a Game Dev organization in my school!
