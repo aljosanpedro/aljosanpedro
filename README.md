@@ -1,4 +1,4 @@
-### Hello 👋 I'm Aljo San Pedro, a 3rd BS Psychology student from UP Diliman, and I learn coding in my free time. I'm hoping to make fun and impactful projects, and land a tech job and/or learn tech in grad school.  
+### Hello 👋 I'm Aljo San Pedro, a 3rd year BS Psychology student from UP Diliman, and I learn coding in my free time. I hope to make many fun and impactful projects by the time I graduate. Eventually, I hope to work in tech and/or learn CS in grad school.  
 
 - 🔭 I’m currently working on: Going through online resources 
 - 🌱 I’m currently learning: Python!
